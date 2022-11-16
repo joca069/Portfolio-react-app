@@ -1,0 +1,50 @@
+.post{ 
+    max-width: 70vw;
+    min-width: 40vw;
+    width: fit-content;
+    height: fit-content;  
+    border-left:black 1px dotted; 
+     
+
+    font-family: 'Space Mono', monospace;
+    margin-top: 3%;
+    position: relative;
+}
+.post-content{  
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 60px;
+    padding-bottom:60px; 
+}
+
+.post-bottom{ 
+    font-family: 'fontawesome'; 
+    height: 20px;
+}
+
+.post-author{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: rgb(255, 51, 0);
+}
+ 
+.post-button{
+    float: left;
+    width: fit-content;
+    cursor: pointer;
+    height: 20px;
+    margin: 2px;
+}
+
+
+.post-comments{
+    position: relative;
+    margin-left: 3%;
+    overflow: hidden;
+    height: 0px;
+}
+.post-comment{
+    overflow: hidden;
+    height: 0px;  
+}

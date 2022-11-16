@@ -1,0 +1,49 @@
+[ 
+    {
+        "hash":"dfdfdcdc",
+        "author":"gaser",
+        "content":"",
+        "comments":[]
+
+    },
+    {   
+        "hash":"df3xsx",
+        "author":"gaser",
+        "content":"Nesto drugo",
+        "comments":[]
+
+    }
+    ,    
+    {
+        "hash":"sdsxsxwe2",
+        "author":"gaser",
+        "content":"Baka je pedfofil",
+        "comments":
+        [    {
+            "hash":"cvdcdcasdxcsx",
+            "author":"Baka prase",
+            "content":"Ne nisam",
+            "comments":[
+                {
+                    "hash":"cvdcdcasdxcsx",
+                    "author":"gaser",
+                    "content":"Da jesi",
+                    "comments":[]
+                }
+                ]
+    
+            },
+            {
+            "hash":"zxwdwas1",
+            "author":"gaser",
+            "content":"IDe gas na max2",
+            "comments":[]
+    
+            }
+        ]
+
+    }
+
+
+
+]

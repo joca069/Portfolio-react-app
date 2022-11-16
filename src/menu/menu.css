@@ -1,0 +1,50 @@
+.menu{ 
+    height: 100vh;
+    width: 8vw;
+    position: fixed; 
+    transition: width 1s;  
+    font-family: 'fontawesome';
+    color:rgba(1,1,1,0);
+    padding-top:  10px; 
+    z-index:3;
+    background-color: #535353;
+}
+
+.menu:hover{ 
+    
+    width: 30vw;
+    color:rgba(255,255,255,1);
+}
+
+.menu-icon{
+    text-align: right; 
+    font-size: 6vw ;
+    margin-right: 1vw;
+    margin-left: 1vw; 
+    color:rgb(255, 255, 255);
+} 
+
+.menu-tag{ 
+transition-property: color, padding,bold;
+transition-duration: 1s;  
+float: right;
+text-align: right; 
+width: 90%;
+padding-top: 2vh;
+padding-bottom: 2vh;
+padding-right:  4vh;
+font-size: 3vw;
+text-decoration: none; 
+overflow: hidden;
+}
+
+.menu-tag > a{
+    color:inherit;
+    text-decoration: none;
+}
+
+.menu-tag:hover{  
+    background-color: rgb(90, 90, 255);
+    padding-right: 6vh;
+    font-weight: bold;
+}
